@@ -13,5 +13,8 @@
 
 ![image](https://github.com/Brunnosr12/Agenciabold_DC/assets/143046335/49901330-a426-411d-b99a-d37e6739d21c)
 
+![image](https://github.com/Brunnosr12/Agenciabold_DC/assets/143046335/598b1b34-37fc-47cb-87d7-94a5fd287765)
 
+![image](https://github.com/Brunnosr12/Agenciabold_DC/assets/143046335/51e8be94-ccb3-4af9-bc0a-0156c2286cab)
 
+![image](https://github.com/Brunnosr12/Agenciabold_DC/assets/143046335/65f7f971-abf5-4415-bbba-1a05a81913af)
