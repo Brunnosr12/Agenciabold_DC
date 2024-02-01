@@ -7,8 +7,10 @@
 
  Tecnologias utilizadas:
  
-![image](https://github.com/Brunnosr12/Agenciabold_DC/assets/143046335/fd57821f-6f5a-4990-a260-c1f5e8725014)
-![image](https://github.com/Brunnosr12/Agenciabold_DC/assets/143046335/39b24cf9-b9c1-414e-976d-4899cd079946)
+<a href="#">
+    <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</a>
 
 
 
